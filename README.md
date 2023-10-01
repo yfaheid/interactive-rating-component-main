@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/frontend-mentor-interactive-rating-component-solution-1c7BSTMwT8
+- Live Site URL: https://vocal-pegasus-c3c1cf.netlify.app/
 
 
 ### Built with
